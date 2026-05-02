@@ -1,2 +1,3 @@
 # gift_econ_sim
-gift_economy_sim
+A simulation of a gift economy
+Corresponding LessWrong Post:
